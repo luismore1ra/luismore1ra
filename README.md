@@ -1,8 +1,9 @@
 # Hi, I'm Luís 👋
 
-Developer at **Deloitte** with 2 years of hands-on professional experience. Higher Professional Technical Degree in Computer Technologies (CTeSP, EQF Level 5) — Deloitte BrightStart program.
+Developer at **Deloitte** with 2 years of hands-on professional experience. Higher Professional Technical Degree in Computer Technologies (CTeSP, EQF Level 5)
 
 🔹 I build **websites for local businesses** and **custom automation tools**  
+🔹 Clean design · mobile-first · fast delivery  
 🔹 Based in the **Algarve**, Portugal  
 🔹 Available for freelance projects
 
