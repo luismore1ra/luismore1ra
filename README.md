@@ -10,6 +10,7 @@ Developer at **Deloitte** with 2 years of hands-on professional experience. High
 ## 🛠️ Tech Stack
 
 **Core:** Java · Python · PHP · HTML · CSS · SQL · PL/SQL · JavaScript
+
 **Platforms & Tools:** ServiceNow · Appian · Jira · Confluence · ScriptRunner · Git  
 **Familiar with:** C# / .NET · C · Groovy
 
