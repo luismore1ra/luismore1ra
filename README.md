@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Luís 👋
 
-<!--
-**luismore1ra/luismore1ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer at **Deloitte** with 2 years of hands-on professional experience. Higher Professional Technical Degree in Computer Technologies (CTeSP, EQF Level 5) — Deloitte BrightStart program, final internship presentation scheduled.
 
-Here are some ideas to get you started:
+🔹 I build **websites for local businesses** and **custom automation tools**  
+🔹 Based in the **Algarve**, Portugal  
+🔹 Available for freelance projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Core:** Java · Python · PHP · HTML · CSS · SQL · PL/SQL · JavaScript
+**Platforms & Tools:** ServiceNow · Appian · Jira · Confluence · ScriptRunner · Git  
+**Familiar with:** C# / .NET · C · Groovy
+
+## 📫 Contact
+📧 luismoreira.dev.pt@gmail.com
